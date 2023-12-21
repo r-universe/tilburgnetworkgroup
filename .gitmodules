@@ -8,3 +8,6 @@
 [submodule "remstats"]
 	path = remstats
 	url = https://github.com/tilburgnetworkgroup/remstats
+[submodule "remstimate"]
+	path = remstimate
+	url = https://github.com/tilburgnetworkgroup/remstimate
