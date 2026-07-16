@@ -14,7 +14,3 @@
 [submodule "remulate"]
 	path = remulate
 	url = https://github.com/tilburgnetworkgroup/remulate
-[submodule "shrinkem"]
-	path = shrinkem
-	url = https://github.com/jomulder/shrinkem
-	registered = false
