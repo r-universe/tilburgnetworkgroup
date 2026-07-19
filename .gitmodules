@@ -14,3 +14,6 @@
 [submodule "remulate"]
 	path = remulate
 	url = https://github.com/tilburgnetworkgroup/remulate
+[submodule "remverse"]
+	path = remverse
+	url = https://github.com/tilburgnetworkgroup/remverse
